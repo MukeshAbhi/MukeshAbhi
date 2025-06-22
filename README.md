@@ -32,7 +32,7 @@ Currently developing a **Payments App** that includes:
 ## 📫 How to Reach Me
 
 - GitHub: [Mukesh](https://github.com/MukeshAbhi)
-- LinkedIn: [Your LinkedIn URL here]
+- LinkedIn: [www.linkedin.com/in/mukeshpapanna]
 - Email: [abhimukesh284@gmail.com]
 - Twitter: [@MukeshAbhi16]
 
