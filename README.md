@@ -2,18 +2,9 @@
 
 I'm a passionate **Full Stack Developer** currently working on a **AI powered** Job portal.
 
-## 🧩 What I'm Working On
 
-Currently developing a **Payments App** that includes:
-- 🔐 Secure authentication and authorization
-- 💸 Real-time transaction processing
-- 📊 Transaction history and analytics
-- 📱 Responsive UI for web and mobile
-
-  
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a full-featured **Payments App**
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**
 - 👯 I’m looking to collaborate on **Backend Development**
 - 🤔 I’m looking for help with improving **system design** and scaling backend architectures
