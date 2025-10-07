@@ -1,6 +1,6 @@
 #  Hi, I'm Mukesh
 
-I'm a passionate **Full Stack Developer** currently working on a **Payments App** that aims to simplify and secure financial transactions for everyone.
+I'm a passionate **Full Stack Developer** currently working on a **AI powered** Job portal.
 
 ## 🧩 What I'm Working On
 
