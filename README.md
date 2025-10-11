@@ -2,6 +2,23 @@
 
 I'm a passionate **Full Stack Developer** currently working on a **AI powered** Job portal.
 
+## 🧠 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight)
+
+<!--
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight)
+
+<!--
+[![Mukesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshabhi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
+
+
+
 
 ## 🚀 About Me
 
