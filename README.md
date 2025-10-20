@@ -2,6 +2,8 @@
 
 I'm a passionate **Full Stack Developer** currently working on a **AI powered** Job portal.
 
+[![An image of @mukeshabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukeshabhi)](https://holopin.io/@mukeshabhi)
+
 ## 🧠 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight)
