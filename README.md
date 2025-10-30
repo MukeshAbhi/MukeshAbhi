@@ -16,9 +16,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight" alt="Mukesh's GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight" alt="Top Langs" />
