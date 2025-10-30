@@ -1,10 +1,8 @@
-<!-- Profile Header -->
+<!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">🚀 Full Stack Developer | Building AI-powered Job Portals</h3>
-
 <p align="center">
-  <a href="https://holopin.io/@mukeshabhi">
-    <img src="https://holopin.me/mukeshabhi" alt="Mukesh's Holopin Badges" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
