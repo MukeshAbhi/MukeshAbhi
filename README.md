@@ -1,51 +1,71 @@
-#  Hi, I'm Mukesh
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mukesh</h1>
+<h3 align="center">🚀 Full Stack Developer | Building AI-powered Job Portals</h3>
 
-I'm a passionate **Full Stack Developer** currently working on a **AI powered** Job portal.
-
-[![An image of @mukeshabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukeshabhi)](https://holopin.io/@mukeshabhi)
-
-## 🧠 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight)
-
-<!--
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight)
--->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight)
-
-<!--
-[![Mukesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshabhi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
-
-
-
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**
-- 👯 I’m looking to collaborate on **Backend Development**
-- 🤔 I’m looking for help with improving **system design** and scaling backend architectures
-- 💬 Ask me about anything tech — I’m a **tech enthusiast** who has completed **CS50x**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: I enjoy turning complex problems into elegant, user-friendly solutions.
-
-## 🛠 Tech Stack
-
-**Languages:** JavaScript, TypeScript, HTML, CSS, SQL  
-**Frontend:** React, Tailwind CSS, Next.js
-**Backend:** Node.js, Express, Next.js
-**Database:** MongoDB, PostgreSQL  
-**Tools & DevOps:** Docker, Git, Postman, Vercel, Netlify
-
-## 📫 How to Reach Me
-
-- GitHub: [Mukesh](https://github.com/MukeshAbhi)
-- LinkedIn: [www.linkedin.com/in/mukeshpapanna]
-- Email: [abhimukesh284@gmail.com]
-- Twitter: [@MukeshAbhi16]
+<p align="center">
+  <a href="https://holopin.io/@mukeshabhi">
+    <img src="https://holopin.me/mukeshabhi" alt="Mukesh's Holopin Badges" />
+  </a>
+</p>
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration 🚀
+## 🧠 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mukeshabhi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight" alt="Mukesh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+## 🧩 About Me
+
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
+- 👯 Looking to collaborate on **Backend Development**
+- 🤔 Exploring **System Design** & scalable backend architectures
+- 💬 Ask me anything tech — I’ve completed **CS50x (Harvard)**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: I love turning complex problems into elegant, user-friendly solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Languages** | JavaScript, TypeScript, HTML, CSS, SQL |
+| **Frontend**  | React, Tailwind CSS, Next.js |
+| **Backend**   | Node.js, Express, Next.js |
+| **Database**  | MongoDB, PostgreSQL |
+| **Tools & DevOps** | Docker, Git, Postman, Vercel, Netlify |
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/MukeshAbhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mukeshpapanna">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhimukesh284@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/MukeshAbhi16">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration 🚀</p>
