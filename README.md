@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">🚀 Full Stack Developer | Building AI-powered Job Portals</h3>
+<h3 align="center">🚀 Full Stack Developer | Building Lottery dAPP</h3>
 
 <p align="center">
   <a href="https://holopin.io/@mukeshabhi">
