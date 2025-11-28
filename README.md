@@ -28,7 +28,7 @@
 
 ## 🧩 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
+- 🌱 Currently mastering **WEB3 with SOLIDITY**
 - 👯 Looking to collaborate on **Backend Development**
 - 🤔 Exploring **System Design** & scalable backend architectures
 - 💬 Ask me anything tech — I’ve completed **CS50x (Harvard)**
