@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Lottery dAPP</h3>
+<h3 align="center">🚀 Full Stack Developer | Exploring AI Agents & RAG Systems</h3>
 
 <p align="center">
   <a href="https://holopin.io/@mukeshabhi">
@@ -8,46 +8,57 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukeshabhi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<br/>
+
+## 🧩 About Me
+
+- 🌱 Currently diving deep into **AI Agents, RAG pipelines & LLM-powered apps**
+- 🧠 Exploring **LangChain, vector databases & prompt engineering**
+- 👯 Looking to collaborate on **AI-integrated backend systems**
+- 🤔 Exploring **System Design** & scalable backend architectures
+- 💬 Ask me anything tech — I've completed **CS50x (Harvard)**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: I love turning complex problems into elegant, user-friendly solutions
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git,vercel,py" />
+</p>
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Languages** | JavaScript, TypeScript, Python, HTML, CSS, SQL |
+| **Frontend**  | React, Next.js, Tailwind CSS |
+| **Backend**   | Node.js, Express, Next.js, Fast API |
+| **AI / ML**   | LangChain, RAG Pipelines, OpenAI & Claude APIs, Vector DBs (PG Vector) |
+| **Database**  | MongoDB, PostgreSQL |
+| **Tools & DevOps** | Docker, Git, Postman, Vercel, Netlify |
+
+<br/>
 
 ## 🧠 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mukesh's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight" alt="Mukesh's GitHub stats" />
-</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshabhi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
-## 🧩 About Me
-
-- 🌱 Currently mastering **WEB3 with SOLIDITY**
-- 👯 Looking to collaborate on **Backend Development**
-- 🤔 Exploring **System Design** & scalable backend architectures
-- 💬 Ask me anything tech — I’ve completed **CS50x (Harvard)**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: I love turning complex problems into elegant, user-friendly solutions.
-
----
-
-## 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| **Languages** | JavaScript, TypeScript, HTML, CSS, SQL |
-| **Frontend**  | React, Tailwind CSS, Next.js |
-| **Backend**   | Node.js, Express, Next.js |
-| **Database**  | MongoDB, PostgreSQL |
-| **Tools & DevOps** | Docker, Git, Postman, Vercel, Netlify |
-
----
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -66,6 +77,4 @@
   </a>
 </p>
 
----
-
-<p align="center">Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration 🚀</p>
+<p align="center">✨ Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration 🚀</p>
