@@ -46,19 +46,20 @@
 ## 🧠 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshabhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mukesh's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukeshabhi&theme=tokyonight" alt="Mukesh's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshabhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukeshabhi&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshabhi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukeshabhi&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshabhi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Connect with Me
 
